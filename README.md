@@ -17,5 +17,5 @@ run setup.bat file
 
 ## if you cant run setup.bat:
 in console run "setup.py install"
-copy ".pyd" file to main folder if needed
+copy ".pyd" file to main folder (make sure there is only one ".pyd" file) if needed
 run "dots.py" file
