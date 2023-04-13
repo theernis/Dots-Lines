@@ -1,5 +1,5 @@
-# Dots-Lines
-random project i made to learn C
+# Dots&Lines
+Dots&Lines random project i made to learn C
 
 
 ## requirements:
