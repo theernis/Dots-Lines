@@ -1,5 +1,5 @@
 setup.py install
-xcopy /s /y %CD%\build\lib.win-amd64-cpython-311 %CD%
+for /R %CD%\build %%f in (*.pyd) do copy %%f %CD%
 pause
 python dots.py
 pause
